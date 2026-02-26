@@ -1,0 +1,12 @@
+.img-cropped{
+    max-width: 400px;
+    object-fit: cover;
+    width: 100%;
+    object-position: center;
+}
+
+.imagenes{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
