@@ -16,7 +16,7 @@ export const Careers = () => {
                                 </div>
                             </div>
                             <div className= "d-flex  flex-column justify-content-center mt-5 ">
-                                <img src="./public/rostros.jpg" height="600" className="rounded-4" class="border border-5 rounded-5" alt="" />
+                                <img src="./public/rostros.jpg" height="500" className="rounded-4" class="border border-5 rounded-5" alt="" />
                             </div>
                         </div>
                     </div>

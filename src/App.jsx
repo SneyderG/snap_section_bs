@@ -5,6 +5,8 @@ import { Careers } from './pages/Careers'
 import { Tarjet } from './pages/Tarjet'
 import { Built } from './pages/Built'
 import { Smarfon } from './pages/Smarfon'
+import { Made }  from './pages/Made'
+import { Single } from './pages/Single'
 
 export const App = () => {
   return (
@@ -15,6 +17,8 @@ export const App = () => {
     <Tarjet/>
     <Built/>
     <Smarfon/>
+    <Made/>
+    <Single/>
     </>
   )
 }

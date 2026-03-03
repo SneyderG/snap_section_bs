@@ -13,19 +13,19 @@ export const Built = () => {
                                 </p>
 
                                 <p>
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, cupiditate. 
+                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, cupiditate.
                                 </p>
-                                
+
                             </div>
                         </div>
                         <div className="d-flex gap-3 align-items-center ">
-                            
+
                         </div>
                     </div>
 
                     <div className="col-6">
                         <div className="">
-                            <img src="./public/abrazo.jpg" className="img-cropped" alt="" />
+                            <img src="./public/abrazo.jpg" height="500" className="rounded-4" class="border border-5 rounded-5" alt="" />
                         </div>
 
                     </div>
