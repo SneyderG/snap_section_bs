@@ -7,7 +7,7 @@ import { Built } from './pages/Built'
 import { Smarfon } from './pages/Smarfon'
 import { Made }  from './pages/Made'
 import { Single } from './pages/Single'
-
+import { Register } from './pages/Register'
 export const App = () => {
   return (
     <>
@@ -19,6 +19,7 @@ export const App = () => {
     <Smarfon/>
     <Made/>
     <Single/>
+    <Register/>
     </>
   )
 }
