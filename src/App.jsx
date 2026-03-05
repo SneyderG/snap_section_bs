@@ -8,6 +8,7 @@ import { Smarfon } from './pages/Smarfon'
 import { Made }  from './pages/Made'
 import { Single } from './pages/Single'
 import { Register } from './pages/Register'
+import { Login }  from './pages/Login'
 export const App = () => {
   return (
     <>
@@ -20,6 +21,7 @@ export const App = () => {
     <Made/>
     <Single/>
     <Register/>
+    <Login/>
     </>
   )
 }
