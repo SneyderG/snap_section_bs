@@ -1,4 +1,4 @@
-export const Single = () => {
+export const About = () => {
     return (
         <>
             <div className="container">
