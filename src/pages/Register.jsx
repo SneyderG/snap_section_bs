@@ -5,11 +5,11 @@ export const Register = () => {
       <div className="container">
         <div className="row">
           <div className="col-6 bg-primary mt-5 text-white-text-center shadow-lg p-3 rounded">
-            <div className="text-center mt-5"><img src="./public/escandalo.png" height="400" width="400" alt="" /></div>
+            <div className="text-center mt-5"><img src="./escandalo.png" height="400" width="400" alt="" /></div>
             <div className="justify-content-center mt-5 d-flex gap-4">
-              <img src="./public/whatsapp.png" height="40" alt="" />
-              <img src="./public/tik-tok.png" height="40" alt="" />
-              <img src="./public/instagram.png" height="40" alt="" />
+              <img src="./whatsapp.png" height="40" alt="" />
+              <img src="./tik-tok.png" height="40" alt="" />
+              <img src="./instagram.png" height="40" alt="" />
             </div>
           </div>
           <div className="col-6 bg-tertiary mt-5 text-white-text-center gap-4 shadow-lg p-3 rounded">
