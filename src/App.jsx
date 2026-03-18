@@ -1,6 +1,6 @@
 import React from 'react'
 import { Header } from './components/Header'
-import { Home } from './pages/home'
+import { Home } from './pages/Home'
 import { Careers } from './pages/Careers'
 import { Tarjet } from './pages/Tarjet'
 import { Built } from './pages/Built'
